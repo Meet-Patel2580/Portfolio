@@ -33,6 +33,7 @@ const Footer = () => {
 
   return (
     <>
+    <br />
     <h2 className="head-text">Let's <span> Chat</span></h2>
     <div className="app__footer-cards">
       <div className="app__footer-card">
